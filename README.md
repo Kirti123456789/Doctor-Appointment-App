@@ -27,7 +27,7 @@ The Doctor Appointment System is an Android application designed to simplify the
 ##  Screenshots
 
 ![Welcome Screen](Welcome_Screen.jpg)
-![Doctor Home Screen](Doctor_Home_Screen.jpg)
+![Doctor Home Screen](Doctor_Home_Screen.jpeg)
 ![Doctor Lists](Doctor_List.jpg)
 ![Doctor Details](Doctor_Details.jpg)
 ![Appointment Form](Appointment_Form.jpg)
